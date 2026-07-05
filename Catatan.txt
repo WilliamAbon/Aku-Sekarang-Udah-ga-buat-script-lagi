@@ -1,0 +1,9 @@
+guys. siapa pun yang ingin atau nekat membaca terima kasih. gw sekarang sudah ga buat script lagi tidak seperti yang dulu karna gw ga punya executor yang bisa di execute untuk ngetest script buatan gw. jadi gw ga buat script lagi dan executor khusus pc seperti xeno yang jadi favorit gw sekarang udah penuh virus atau sebalik nya
+bukan hanya virus. saat aku sudah scan file virus nya ternyata 0 dan saat aku pake executor nya malah muncul pringatan dari windows bahwa file .exe ini telah di blokir karna dari system windows sikuriti nya yang bikin gw kesel. virus di dalam file udah ga ada eh saat di run
+malah muncul file .exe ini telah di blokirkan oleh windows karna dalam code program file itu berbahaya. aku ga tau ini beneran atau tidak tapi aku merasa agak yakin kalo ini executor original nya bukan fake yang penuh virus semua. aku sudah mencoba beberapa cara sampean buat executor gw sendiri
+dan ternyata buat file .exe sediri itu susah karna rumit yang letak rumit nya itu bahasa program nya yang susah. karan module dari bawaan windows ternyata banyak dan bikin aku bingung ini apa fungsi nya dan apa input yang di butuh kan dan lain nya. sudah seperti nemu bendah yang terlihat aneh
+lalu aku sekarang ganti hobi gw jadi hobi rakit dan experimen elektronik yang tanpa di solder (*BreadBoard) atau kalo aku bosan bisa aja aku experimen logika gerbang (*Logic Gate) dan membuat game di roblox studio yang sering aku tidak selesai kan tapi itu adalah proses untuk aku. untuk membelajarin bahasa program lua lebih lanjut
+dan gitu aja. makasih dah baca. moga ga ngerti:)
+
+btw desainer UI dan Buat Script itu gw semua bukan satu team
+bikin dari jelek dan sederhana dulu lalu makin lama di update makin bagus versi versi nya
